@@ -2,10 +2,12 @@ import { Button } from '@/components/ui/button';
 import { Card } from '@/components/ui/card';
 import Icon from '@/components/ui/icon';
 import Snowfall from '@/components/Snowfall';
+import BackgroundEffect from '@/components/BackgroundEffect';
 
 const Index = () => {
   return (
     <div className="min-h-screen relative overflow-hidden">
+      <BackgroundEffect />
       <Snowfall />
       
       <div className="relative z-10">
