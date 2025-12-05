@@ -25,7 +25,7 @@ const Index = () => {
             </div>
             
             <h2 className="text-5xl md:text-7xl font-bold mb-6 text-foreground leading-tight">
-              Добро пожаловать в
+              Добро пожаловать в адаптер
               <span className="block text-primary mt-2">DETX.COM</span>
             </h2>
             
@@ -39,7 +39,7 @@ const Index = () => {
               asChild
             >
               <a 
-                href="https://t.me/detxcom" 
+                href="https://t.me/+rubHs1NTs5o5NWEx" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="flex items-center gap-3"
