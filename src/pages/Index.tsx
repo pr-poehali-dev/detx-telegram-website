@@ -20,10 +20,6 @@ const Index = () => {
 
         <main className="container mx-auto px-4 py-12 md:py-20">
           <section className="max-w-4xl mx-auto text-center mb-16 animate-fade-in">
-            <div className="inline-block mb-6 px-6 py-2 bg-primary/10 rounded-full text-primary font-semibold">
-              🎄 Новогоднее издание 2024
-            </div>
-            
             <h2 className="text-5xl md:text-7xl font-bold mb-6 text-foreground leading-tight">
               Добро пожаловать в адаптер
               <span className="block text-primary mt-2">DETX.COM</span>
@@ -85,7 +81,7 @@ const Index = () => {
               <span className="text-2xl">🎄</span>
             </p>
             <p className="text-sm">
-              © 2024 DETX.COM | Все права защищены
+              © 2025 DETX.COM | Все права защищены
             </p>
           </div>
         </footer>
